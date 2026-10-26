@@ -3,7 +3,7 @@ A brief investigation into the $k$-source minimum cost path problem focused on c
 
 ### Problem:
 
-Given an edge-weighted directed graph $G$ with no negative-cost edges and a set $S = \{{s_1, s_2, \ldots, s_k\}}$ of $k$ starting vertices, construct minimum-cost path trees for each vertex in $S$.
+Given an edge-weighted directed graph $G$ with no negative-cost edges and a set $S = {\{{s_1, s_2, \ldots, s_k\}}$} of $k$ starting vertices, construct minimum-cost path trees for each vertex in $S$.
 
 ### Investigated Conjecture:
 
